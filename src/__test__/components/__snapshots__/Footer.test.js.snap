@@ -14,5 +14,10 @@ exports[`Footer Snapshot Comprobar la UI del componente <Footer /> 1`] = `
   >
     Todos los Izquierdos Reservados
   </p>
+  <p
+    className="Footer-copy"
+  >
+    Todos los Izquierdos Reservados X2
+  </p>
 </div>
 `;
